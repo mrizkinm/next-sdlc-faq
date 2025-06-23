@@ -1,6 +1,6 @@
 # next-sdlc-faq
 
-Project ini adalah aplikasi FAQ berbasis [Next.js](https://nextjs.org) yang memungkinkan pengguna mengajukan pertanyaan terkait SOP (Standard Operating Procedure) dan mendapatkan jawaban otomatis berdasarkan dokumen SOP yang tersedia.
+Project ini adalah aplikasi FAQ berbasis Next.js.
 
 ## Fitur
 
