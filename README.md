@@ -17,7 +17,10 @@ Project ini adalah aplikasi FAQ berbasis Next.js.
    npm install
    ```
 
-2. **Buat file `.env` dan isi variabel berikut:**
+2. **ubah file `.env.example` menjadi `.env` dan isi variabel berikut:**
+   ```bash
+   cp .env.example .env
+   ```
    ```
    GOOGLE_API_URL=...
    GOOGLE_API_KEY=...
