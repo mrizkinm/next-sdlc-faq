@@ -1,0 +1,30 @@
+Software Development Life Cycle (SDLC) adalah proses penting dalam pengembangan perangkat lunak yang merupakan kerangka kerja terstruktur yang digunakan untuk merencanakan, mengembangkan, menguji, dan memelihara perangkat lunak. SDLC adalah pendekatan yang memastikan perangkat lunak yang dihasilkan sesuai dengan kebutuhan pengguna, anggaran, dan diselesaikan dalam waktu yang telah ditentukan sesuai jadwal. Proses ini melibatkan beberapa tahap, mulai dari perencanaan, analisis kebutuhan, desain, pengembangan, pengujian, hingga implementasi dan pemeliharaan.
+
+Tujuan utama SDLC adalah mengurangi risiko proyek dan memastikan perangkat lunak berkualitas tinggi. Dengan membagi proses pengembangan menjadi tahapan yang jelas, SDLC memungkinkan kontrol yang lebih baik, manajemen risiko, dan hasil yang lebih dapat diprediksi. Berikut adalah beberapa fase utama dalam SDLC: Perencanaan (Planning), Analisis Kebutuhan (Requirements Analysis), Desain (Design), Pengembangan (Development), Pengujian (Testing), Implementasi (Deployment), dan Pemeliharaan (Maintenance).
+
+Ada beberapa model yang biasa digunakan dalam menjalankan proses SDLC, di antaranya adalah:
+
+Waterfall model
+Model SDLC ini adalah salah satu model tertua dan tersingkat dalam penerapannya. Dalam sistem ini, setelah satu fase selesai, fase berikutnya harus segera dimulai.
+Setiap fase memiliki rencana kecil dan menurun ke fase berikutnya. Maka dari itu, fase ini dikatakan waterfall atau air terjun karena tiap fase memiliki ‘turunan’ kecil lainnya.
+Namun, salah satu kekurangan dari model ini adalah jika ada satu detail kecil yang tertinggal, dapat mempengaruhi keseluruhan rencana dan berakhir berantakan.
+
+Agile model
+Agile model adalah model SDLC yang dapat memisahkan produk dengan proses dan waktu pengerjaannya secara cepat. Metodologi ini diyakini sangat efektif untuk keberhasilan penciptaan sebuah produk.
+Dalam metode ini, tim akan mencoba tiap produk yang sudah selesai untuk meminimalisir kesalahan.
+Namun, salah satu kelemahan dari metode ini dapat memicu proyek ke arah yang salah dan tidak sesuai dengan kemauan dan ekspektasi dari customer.
+
+Iterative model
+Metode SDLC ini adalah metode yang memiliki repetisi tinggi. Developer akan menciptakan produk dengan versi cepat dan pastinya murah.
+Setelah itu, mereka akan mencoba produk dan merevisi jika ada kesalahan. Salah satu kekurangan dari metode ini adalah dapat mengkonsumsi bahan baku jika ada satu detail yang tertinggal untuk dikerjakan.
+
+V-Shaped model
+V-shaped SDLC model adalah lanjutan dari Waterfall Model. Metode SDLC ini akan mencoba tiap fase dalam proses pengembangan suatu produk.
+
+Big bang model
+Model software development life cycle ini adalah model yang diklaim memiliki risiko tinggi saat dijalankan.
+Mengapa demikian? Hal ini dikarenakan dalam pengerjaannya, tim akan menginvestasikan semua bahan baku ke dalam projek tersebut.
+Sehingga metode ini akan berhasil jika mengerjakan proyek yang kecil dan cenderung berbahaya untuk proyek besar.
+
+Spiral model
+Metode ini merupakan metode yang paling fleksibel dan mirip dengan iterative model. Metode ini fokus pada repetisi dalam pengerjaannya.

@@ -1,0 +1,5 @@
+berikut adalah bahasa pemrograman yang umum digunakan dalam pengembangan perangkat lunak:
+
+1. javascript
+2. php
+3. python
