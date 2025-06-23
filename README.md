@@ -17,7 +17,7 @@ Project ini adalah aplikasi FAQ berbasis Next.js.
    npm install
    ```
 
-2. **ubah file `.env.example` menjadi `.env` dan isi variabel berikut:**
+2. **Ubah file `.env.example` menjadi `.env` dan isi variabel berikut:**
    ```bash
    cp .env.example .env
    ```
